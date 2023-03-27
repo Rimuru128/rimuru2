@@ -93,6 +93,6 @@ int main()
     default:
         break;
     }
-
+    printf("have fun");
     return 0;
 }
